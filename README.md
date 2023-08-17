@@ -1,4 +1,4 @@
-# Softwares
+## Softwares for Developer
 1. Akeeba Extractor for jpa.
 2. Laragon
 3. VS Code
