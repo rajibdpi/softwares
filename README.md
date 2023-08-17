@@ -1,5 +1,5 @@
 ## Softwares for Developer
-1. [Akeeba Extractor for jpa](https://github.com/rajibdpi/Softwares/blob/main/SetupAkeebaExtractWizard.exe)
+1. [Akeeba Extractor for jpa]([https://github.com/rajibdpi/Softwares/blob/main/SetupAkeebaExtractWizard.exe](https://github.com/rajibdpi/Softwares/raw/main/SetupAkeebaExtractWizard.exe))
 2. Laragon
 3. VS Code
 4. Sublime
