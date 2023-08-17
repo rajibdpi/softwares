@@ -10,3 +10,4 @@
 9. [Putty]()
 10. [Git Bash ]()
 11. [Traffic Monitor](https://github.com/zhongyang219/TrafficMonitor/releases/latest)
+12. [7zip](https://www.7-zip.org/a/7z2301-x64.exe)
